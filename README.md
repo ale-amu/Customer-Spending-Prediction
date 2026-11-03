@@ -1,6 +1,3 @@
-Here's a clean README for it:
-
----
 
 # Customer Spending Prediction
 
