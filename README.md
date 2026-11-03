@@ -29,6 +29,5 @@ This project analyzes the Online Retail dataset to predict whether customers are
 - Working with structured real-world datasets
 
 ## Author
-Alessia Amuzu | University of Virginia | Data Science
-Rebqa Yohanes | University of Virginia | Data Science
-Gelila Solomon | University of Virginia | Data Science
+Alessia Amuzu, Rebqa Yohanes, Gelila Solomon
+
